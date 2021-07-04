@@ -1,0 +1,15 @@
+.calendar {
+  display: flex;
+  align-items: center;
+  width: min-content;
+  column-gap: 5px;
+}
+.calendar-span {
+  width: 100%;
+  white-space: nowrap;
+}
+.calendar-picker {
+  width: 100%;
+  margin-left: -100%;
+  visibility: hidden;
+}

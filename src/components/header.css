@@ -1,0 +1,8 @@
+.header {
+  background-color: #1f2640;
+  width: 100%;
+}
+.header img {
+  float: left;
+  margin: 5px 10%;
+}

@@ -1,0 +1,12 @@
+.tabs .MuiTab-textColorInherit.Mui-selected {
+  color: #83a515;
+}
+.tabs .PrivateTabIndicator-colorSecondary-3 {
+  background-color: #83a515;
+}
+.tabs .MuiTab-root {
+  text-transform: none;
+}
+.tabs {
+  margin-bottom: 20px;
+}
